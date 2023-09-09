@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prachipatil13.prachipatil13" />
 ### Hello, I am Prachi Patil ! 👋
 I am a fourth-year engineering student majoring in Computer Science and Engineering (CSE-AI&ML) at Saraswati College of Engineering.
 
