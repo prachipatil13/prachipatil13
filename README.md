@@ -15,7 +15,7 @@
 - 💻 Crafting web-based projects is one of my favorite pastimes.
 - 💪 Proficient in several programming languages, including C++, Java, and JavaScript.
 - 💡 Aspiring software developer with a knack for turning ideas into reality.  
-- 💬 Ask me about **Fullstack Devlopment or my Tech related stuf.[here](https://github.com/prachipatil13/prachipatil13/issues)**
+- 💬 Ask me about **Fullstack Devlopment or my Tech related stuff. [here](https://github.com/prachipatil13/prachipatil13/issues)**
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/-prachipatil/)
 - 😄 Pronouns: she/her 
  </div>
