@@ -11,10 +11,10 @@
 
 <div align="left">
  
- - 🧠 I have a deep passion for tackling complex problems and transforming them into elegant solutions.
-- 💻 Crafting web-based projects is one of my favorite pastimes.
-- 💪 Proficient in several programming languages, including C++, Java, and JavaScript.
-- 💡 Aspiring software developer with a knack for turning ideas into reality.  
+ - 🧠 Passionate about solving complex problems and building efficient, scalable solutions.
+- 💻 Java Developer with hands-on experience in **Spring Boot** and web-based applications.
+- 💪 Proficient in **Java, C++, and JavaScript**, with a strong foundation in object-oriented programming.
+- 💡Skilled at turning ideas into robust, maintainable software solutions. 
 - 💬 Ask me about **Fullstack Devlopment or my Tech related stuff. [here](https://github.com/prachipatil13/prachipatil13/issues)**
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/-prachipatil/)
 - 😄 Pronouns: she/her 
